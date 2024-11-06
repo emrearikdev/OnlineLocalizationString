@@ -24,6 +24,7 @@ class StringService {
     
     func configure() {
         fetchStrings()
+        TEST kod denemsi.
     }
     
     private func fetchStrings() {
